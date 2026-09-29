@@ -49,3 +49,9 @@ skills/
 Mantido pela Saiph Tecnologia para o Criador 10K.
 
 Copyright © 2026 Saiph Tecnologia.
+## Suporte
+
+Problemas e sugestões:
+https://github.com/saiphtecnologia/criador10k-claude/issues
+
+O plugin não exige conta de teste, credencial ou serviço externo.
