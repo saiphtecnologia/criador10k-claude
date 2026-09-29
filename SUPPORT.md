@@ -1,9 +1,9 @@
 # Suporte
 
-Para dúvidas, bugs ou sugestões sobre o plugin Criador 10K · Máquina de Conteúdo para Claude, abra uma issue no repositório público:
+Para dúvidas, bugs ou sugestões sobre a Skill Criador 10K · Máquina de Conteúdo para Claude, abra uma issue:
 
 https://github.com/saiphtecnologia/criador10k-claude/issues
 
 Mantenedor: Saiph Tecnologia.
 
-O plugin não possui autenticação própria, servidor remoto, MCP ou integração externa.
+A Skill não possui autenticação própria, servidor remoto, MCP ou integração externa.
