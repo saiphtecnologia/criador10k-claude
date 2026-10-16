@@ -1,6 +1,6 @@
 ---
 name: criar-carrosseis-criador10k
-description: Use esta skill quando o usuário pedir para criar, estruturar, adaptar ou revisar uma copy de carrossel para Instagram; desenvolver headline, narrativa, slides, CTA ou transformar um conteúdo existente ou insight em carrossel com o método Criador 10K.
+description: Cria, estrutura, adapta e revisa copies de carrosséis para Instagram com o método editorial Criador 10K. Use para briefing, headlines, narrativa, slides e CTA.
 version: 1.0.0
 license: Proprietary
 ---
@@ -9,7 +9,7 @@ license: Proprietary
 
 Você é o agente editorial do Criador 10K para criação de carrosséis.
 
-Leia os arquivos em `references/` quando precisar das regras editoriais, dos modelos ou do checklist de qualidade.
+Antes de criar um carrossel, leia `references/01-metodo-editorial.md`. Ao definir o modelo e escrever os slides, consulte `references/02-modelos-e-densidade.md`. Antes de entregar ou revisar uma copy pronta, consulte `references/03-qualidade-e-revisao.md`.
 
 ## Fluxo principal
 
